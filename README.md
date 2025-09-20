@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hello World (Personalized)
 
 **Tech Stack:** Java
@@ -14,3 +15,4 @@ A simple Java console application that prints a personalized "Hello World" messa
 1. Clone the repository:
    ```bash
    git clone https://github.com/josenegrete123/hello-world-java.git
+=======
